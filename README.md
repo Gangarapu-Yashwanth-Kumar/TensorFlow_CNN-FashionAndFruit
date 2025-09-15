@@ -26,6 +26,14 @@ By exploring this repository, you will:
 - ✅ Learn how to prepare and export trained models for mobile/Android deployment.  
 - ✅ Strengthen your skills in end-to-end computer vision workflows.
 ---
+## 💻 Technologies Used
+- 🐍 **Python 3.8+**  
+- 🔥 **TensorFlow / Keras** for building and training CNNs  
+- 📊 **NumPy** for numerical computations  
+- 📈 **Matplotlib** for data & results visualization  
+- 📝 **Jupyter Notebook** for interactive development  
+- 📱 **TensorFlow Lite / Android** for model deployment  
+---
 
 ## 🚀 Getting Started
 
